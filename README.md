@@ -8,12 +8,12 @@ CSC/ECE 517: Object Oriented Design and Development
 
 Madhav Bhatt, Chris Brown, Ryan Mee
 
-##Admin Credentials
+### Admin Credentials
 
 * email: admin@test.com
 * password: testing
 
-##User Credentials
+### User Credentials
 
 * email: testing@test.com
 * password: testing
